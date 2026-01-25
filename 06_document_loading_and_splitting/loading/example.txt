@@ -1,0 +1,15 @@
+Contribution margin is a fundamental concept in business and managerial
+accounting.
+
+It represents the portion of revenue that remains after variable costs
+have been deducted. This remaining amount contributes toward covering
+fixed costs and generating profit.
+
+Understanding contribution margin helps leaders make decisions about
+pricing, cost structure, product mix, and scaling. Products with higher
+contribution margins generally provide more leverage as volume grows,
+while low-margin products may require high scale or strategic justification.
+
+In AI-driven businesses, contribution margin analysis is especially
+important when evaluating automation, model inference costs, and
+infrastructure efficiency.
