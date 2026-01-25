@@ -33,7 +33,18 @@ and data flow obvious.
 
 ---
 
-### 3. Output parsing utilities
+### 3. Declarative composition
+
+`declarative_composition_basic.py` demonstrates LangChain’s declarative
+composition style using the pipe (`|`) operator, where prompt templates and
+models are composed directly without explicit control flow code.
+
+This provides a concise alternative to imperative composition, trading some
+explicitness for readability and brevity.
+
+---
+
+### 4. Output parsing utilities
 
 `output_parser_csv_list.py` demonstrates a simple output parser that converts
 comma-separated text into a structured Python list.
